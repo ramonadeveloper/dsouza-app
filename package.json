@@ -1,0 +1,14 @@
+{
+  "name": "dsouza-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "grunt-sass": "^2.0.0",
+    "underscore": "^1.8.3"
+  },
+  "description": "Cool app for dsouza",
+  "author": "Ramona Dsouza",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp-concat": "^2.6.1"
+  }
+}
